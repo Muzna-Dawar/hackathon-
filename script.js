@@ -1,0 +1,1 @@
+document.alert("Welcome to Etsy")
